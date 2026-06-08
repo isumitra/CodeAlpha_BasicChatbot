@@ -1,0 +1,5 @@
+name = "sumitra"
+age = 22
+print(age)
+print(name)
+print("hello")
