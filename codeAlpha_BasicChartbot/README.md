@@ -1,7 +1,7 @@
 # CodeAlpha Basic chatbot
 
 ## Description
-This is a simple rule-based chatbot developed using python . 
+This is a simple rule-based chatbot developed using python for the AlphaCode Internship. The chatbot responds to user inputs using predefined rules and continues until the user types "bye" . 
 
 ## Features
 - Responds to greetings
@@ -12,6 +12,10 @@ This is a simple rule-based chatbot developed using python .
 
 ##  Technologies used
 -python
+-If-Else statement
+-While Loop
+-String Methods
+-User Input & Output
 
 ## Author
-- Sumitra
+- Created by sumitra for the CodeAlpha Python Internship.
